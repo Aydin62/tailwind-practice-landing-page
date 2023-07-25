@@ -3,6 +3,12 @@ Reproducing Brad Traversy's excellent Tailwind Crash Course:
 
 https://github.com/bradtraversy/tailwind-landing-page
 
-Youtube Video:
+YouTube Video:
 
 https://www.youtube.com/watch?v=dFgzHOX84xQ
+
+
+Some snapshots:
+
+
+
